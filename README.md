@@ -1,2 +1,2 @@
 # SYLO
-Beginning e-comm website for start up personal website
+Beginning e-comm website for a personal start up 
